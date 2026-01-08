@@ -22,7 +22,7 @@ To run this project, you need the following tools and libraries installed:
 ## How to Run
 1.  Launch Jupyter Notebook by typing the following command in your terminal:
     jupyter notebook
-2.  Open the file named "AI Image_Classifier.ipynb".
+2.  Open the file named "AI_Image_Classifier.ipynb".
 3.  Click on "Cell" in the top menu and select "Run All".
 4.  The notebook will download the data, train the model, and display a prediction result at the bottom.
 
